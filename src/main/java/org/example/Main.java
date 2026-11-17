@@ -9,6 +9,7 @@ import java.util.Set;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
+        System.out.println("gitdemo");
         String aText="hello";
         String bText="hello";
         String cText=String.join("l","He","lo");
@@ -28,4 +29,5 @@ public class Main {
             }
         }
 
-    }}
+    }
+}
